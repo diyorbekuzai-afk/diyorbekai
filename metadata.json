@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Stol Tennis",
+  "description": "Stol tennis zali uchun taymer va stol boshqaruvi",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

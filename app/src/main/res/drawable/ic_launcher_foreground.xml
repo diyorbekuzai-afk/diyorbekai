@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    
+    <!-- Paddle Head (Emerald green) -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M 12 4.5 A 5.5 5.5 0 0 1 12 15.5 A 5.5 5.5 0 0 1 12 4.5 Z"/>
+        
+    <!-- Paddle Handle (Amber/Gold) -->
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M 10.5 15.5 L 13.5 15.5 L 13.5 19.5 A 1.5 1.5 0 0 1 10.5 19.5 Z"/>
+        
+    <!-- Ping Pong Ball (White) -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M 17 10 A 1.25 1.25 0 0 1 17 12.5 A 1.25 1.25 0 0 1 17 10 Z"/>
+</vector>
